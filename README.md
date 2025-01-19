@@ -23,3 +23,4 @@ To rebase the current branch onto another branch, run: git rebase <base> In this
 # Explain in simple terms git cherry-pick and the command for it 
 is a command in Git that allows you to apply the changes made in one or more existing commits to your current working tree and index. The command for it is -git cherry-pick
 
+[UML Diagram for the To-do list app](https://lucid.app/lucidchart/775267da-f7c4-46ae-af6b-0caad4abea12/edit?viewport_loc=-191%2C-106%2C1997%2C905%2C0_0&invitationId=inv_6d950b7d-6612-48eb-bc85-bd45760541b7)
